@@ -11,3 +11,4 @@ https://www.bilibili.com/video/BV1Lf4y1r7dZ
 ```python generate.py a.png b.png out.png```
 
 回车后即可生成out.png
+哈哈哈
